@@ -1,0 +1,18 @@
+img{
+    height: 500px;
+    border-color: blue;
+}
+body{
+    background-color: black;
+}
+#REDONDO{
+    border-radius: 100%;
+    border-width: 50px;
+    width: 500px;
+}
+h1{
+    background-color: chartreuse;
+}
+hr{
+    background-color: red;
+}
